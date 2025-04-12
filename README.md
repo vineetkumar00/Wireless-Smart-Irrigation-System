@@ -1,5 +1,5 @@
 
-# Automatic Plant Watering System using IoT and WiFi
+# Wireless Smart Irrigation System using IoT and WiFi
 
 ## Project Overview
 This project implements an **Automatic Plant Watering System** that uses an ESP8266 (or ESP32) microcontroller, soil moisture sensor, DC motor (for water pump), and a relay module. The system detects the moisture level of the soil and automatically waters the plant when the soil gets dry. It also connects to the internet via WiFi and uploads real-time data to an IoT platform (like ThingSpeak) for remote monitoring.
